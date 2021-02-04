@@ -1,6 +1,6 @@
 # Refactor Udagram
 
-Project 3 required refactoring of the **Udagram Project** from [Udacity Cloud Developer Nanodegree](https://www.udacity.com/course/cloud-developer-nanodegree--nd9990) from a *monolitic* app to a *mircoservice architecture*
+Project 3 required refactoring of the **Udagram Project** from [Udacity Cloud Developer Nanodegree](https://www.udacity.com/course/cloud-developer-nanodegree--nd9990) from a *monolithic* app to a *mircoservice architecture*
 
 # Project Dependencies
 
